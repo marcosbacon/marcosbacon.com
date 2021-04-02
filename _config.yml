@@ -1,23 +1,23 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
+name: "Marcos Bacon"
+title: "Marcos Bacon"
+description: "Sound Design, educação musical e outras nerdices."
+logo: 'assets/images/marcosbacon-2021.png'
 favicon: 'assets/images/logo.png'
 baseurl: /jekyll-theme-memoirs
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: kakobacon@gmail.com
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    name: Marcos Bacon
+    display_name: bacon
+    gravatar: d99e6e8adbf2167e0ad4176ea794b0d3
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
