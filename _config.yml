@@ -18,10 +18,10 @@ authors:
     name: Marcos Bacon
     display_name: bacon
     gravatar: d99e6e8adbf2167e0ad4176ea794b0d3
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: kakobacon@gmail.com
+    web: https://instagram.com/marcos.bacon
+    twitter: https://twitter.com/marcos.bacon
+    description: "It's not worth describing me."
 
 # Plugins
 plugins:
@@ -55,8 +55,8 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense-data-ad-client: "ca-pub-3936501232619162"
+adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
