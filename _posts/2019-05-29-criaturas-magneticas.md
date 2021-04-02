@@ -4,7 +4,7 @@ title:  "(f)ilhotas da Mari・Criaturas magnéticas de tecido numa experiência 
 author: sal
 categories: [ Portfolio ]
 tags: [ Sound Design ]
-image: assets/images/criaturasmagneticas-featured.png
+image: /assets/images/criaturasmagneticas-featured.png
 ---
 
 A [Mari](https://www.marianagoncalves.info/) precisava de uma ambientação sonora pras suas obras. A ideia era não parecer nada muito desse planeta, mas trazendo elementos meio líquidos e grudentos pro clima geral.

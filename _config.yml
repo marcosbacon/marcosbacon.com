@@ -70,3 +70,11 @@ sass:
   style: compressed
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+# Setting default front matter
+#defaults:
+#  -
+#  scope:
+#    path: "" # an empty string here means all files in the project
+#  values:
+#    image: "/assets/images/favicon-beico.png"
