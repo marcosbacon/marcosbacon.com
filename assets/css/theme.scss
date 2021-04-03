@@ -742,6 +742,7 @@ body.active-side {
   padding: 1vh 0px 0vh 0px; 
 }
 
+// adicionar algum seletor para a próxima regra (pg aulas)
 h2 {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -750,4 +751,8 @@ h2 {
 .card-deck .card {
   margin-top: 15px;
   margin-bottom: 15px;
+  overflow: auto;
+  border: none;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
 }
