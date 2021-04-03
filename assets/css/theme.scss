@@ -730,3 +730,24 @@ body.active-side {
         }
     }
 }
+
+// My custom CSS
+
+#menu ul li a.aulas {
+  padding-bottom: 0; 
+}
+
+#menu ul li a.sub-item {
+  text-indent: 20px;
+  padding: 1vh 0px 0vh 0px; 
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.card-deck .card {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}

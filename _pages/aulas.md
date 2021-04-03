@@ -8,19 +8,88 @@ imageshadow: true
 ---
 
 
-# 🎹 PIANO/TECLAS  
+## 🎹 Piano/Teclas  
   
-
-<div class="card" style="width: 18rem;">
-  <video controls>
-    <source src="{{ site.baseurl }}/assets/videos/barryharris.webm">
-  </video>
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+<div class="card-deck">
+  <div class="card">
+    <video>
+      <source src="{{ site.baseurl }}/assets/videos/escalas.mp4">
+    </video>
+    <div class="card-body">
+      <h5 class="card-title">Diferentes visualizações</h5>
+      <p class="card-text">Visualize da melhor forma possível o conteúdo da aula, com câmera de cima do piano e um teclado virtual.</p>
+    </div>
+  </div>
+  <div class="card">
+    <video controls>
+      <source src="{{ site.baseurl }}/assets/videos/dedilhado.mp4">
+    </video>
+    <div class="card-body">
+      <h5 class="card-title">Teoria na medida certa</h5>
+      <p class="card-text">Teoria musical ajuda demais, mas só se for incorporada na medida certa. Não vou te encher de textos e explicações complicadas.</p>
+    </div>
+  </div>
+</div>
+<div class="card-deck">
+  <div class="card">
+    <video controls>
+      <source src="{{ site.baseurl }}/assets/videos/barryharris.webm">
+    </video>
+    <div class="card-body">
+      <h5 class="card-title">Harmonia, arranjo, composição</h5>
+      <p class="card-text">Aprenda técnicas variadas, em estilos variados, pra tirar o máximo da sua criação.</p>
+    </div>
+  </div>
+  <div class="card">
+    <video controls>
+      <source src="{{ site.baseurl }}/assets/videos/solo.mp4">
+    </video>
+    <div class="card-body">
+      <h5 class="card-title">Repertório livre</h5>
+      <p class="card-text">Escolha o que vai tocar e eu te auxilio pra não pegar nada muito complicado. O foco é no repertório!</p>
+    </div>
   </div>
 </div>
 
-# 🎛 PRODUÇÃO MUSICAL
+## 🎛 Produção Musical
 
+<div class="card-deck">
+  <div class="card">
+    <video controls>
+      <source src="{{ site.baseurl }}/assets/videos/prod-sintetizadores.mp4">
+    </video>
+    <div class="card-body">
+      <h5 class="card-title">Gravação, edição, softwares</h5>
+      <p class="card-text">O conteúdo é imenso, mas a gente vai focar no que você mais curte produzir, e ir preenchendo as lacunas necessárias.</p>
+    </div>
+  </div>
+  <div class="card">
+    <video controls>
+      <source src="{{ site.baseurl }}/assets/videos/prod-sounddesign.mp4">
+    </video>
+    <div class="card-body">
+      <h5 class="card-title">Use seus próprios sons!</h5>
+      <p class="card-text">Sound Design é um tema incrível, independente se você vai começar no sintetizador ou com um sample. Bora?!</p>
+    </div>
+  </div>
+</div>
+<div class="card-deck">
+  <div class="card">
+    <video style="padding: 68px 0 79px 0;" controls>
+      <source src="{{ site.baseurl }}/assets/videos/prod-24k.mp4">
+    </video>
+    <div class="card-body">
+      <h5 class="card-title">Expresse da sua maneira</h5>
+      <p class="card-text">De um disco autoral a uma pré-produção com mais gente, tome as rédeas de como a coisa vai soar, do zero.</p>
+    </div>
+  </div>
+  <div class="card">
+    <video controls>
+      <source src="{{ site.baseurl }}/assets/videos/prod-zoeira.mp4">
+    </video>
+    <div class="card-body">
+      <h5 class="card-title">Crie vídeos mais interessantes</h5>
+      <p class="card-text">Participe com a comunidade da internet remixando e participando em desafios. O mundo digital também pede qualidade.</p>
+    </div>
+  </div>
+</div>

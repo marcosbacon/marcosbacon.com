@@ -48,13 +48,17 @@ ga('send', 'pageview');
 </div>
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
-    <ul>
-        <h3>Bem-vindo ;)</h3>
-        <li><a href="{{ site.baseurl }}/">Início</a></li>
-        <li><a href="{{ site.baseurl }}/aulas">Aulas</a></li>
-        <li><a href="{{ site.baseurl }}/portfolio">Sound Design <span class="badge badge-primary">Meu portfolio!</span></a></li>
-        <!-- <li><a href="{{ site.baseurl }}/contact">Contact</a></li> -->
-    </ul>   
+  <ul>
+    <h3>Bem-vindo ;)</h3>
+    <li><a href="{{ site.baseurl }}/">Início</a></li>
+    <li>
+      <a class="aulas" href="{{ site.baseurl }}/aulas">Aulas</a>
+      <a class="sub-item" href="{{ site.baseurl }}/aulas#-pianoteclas">🎹 Teclas</a>
+      <a class="sub-item" href="{{ site.baseurl }}/aulas#-produção-musical">🎛 Produção</a>
+    </li>
+    <li><a href="{{ site.baseurl }}/portfolio">Sound Design <span class="badge badge-primary">Meu portfolio!</span></a></li>
+    <!-- <li><a href="{{ site.baseurl }}/contact">Contact</a></li> -->
+  </ul>   
 </nav>
 
 {% include search-lunr.html %}
