@@ -12,8 +12,8 @@ imageshadow: true
   
 <div class="card-deck">
   <div class="card">
-    <video>
-      <source src="{{ site.baseurl }}/assets/videos/escalas.mp4">
+    <video controls>
+      <source src="{{ site.baseurl }}/assets/videos/escalas.webm">
     </video>
     <div class="card-body">
       <h5 class="card-title">Diferentes visualizações</h5>
