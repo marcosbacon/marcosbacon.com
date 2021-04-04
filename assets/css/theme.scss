@@ -523,7 +523,7 @@ img, img:hover {
 
 //share
 .share { 
-    position:fixed;left:15px;bottom:40%;z-index: 1026;
+    position:fixed;left:22px;bottom:40%;z-index: 1026;
     text-align:center;    
     ul {
         list-style:none;
@@ -686,8 +686,12 @@ body.active-side {
         z-index:0;
     }
     .share {
-        display: flex;
+        //display: flex;
         align-items:center;
+        text-align: right;
+        right: 52px;
+        top: -40px;
+        left: unset;
     }
     .share ul li {
         display:inline-block;
@@ -740,6 +744,19 @@ body.active-side {
 #menu ul li a.sub-item {
   text-indent: 20px;
   padding: 1vh 0px 0vh 0px; 
+}
+
+.share a i {
+  font-size: 1.5rem;
+}
+
+.share a i:hover {
+  color: #40FFDC;
+}
+
+.blog-grid-container .blog-grid-item {
+  overflow: hidden;
+  border-radius: 10px;
 }
 
 // adicionar algum seletor para a próxima regra (pg aulas)
