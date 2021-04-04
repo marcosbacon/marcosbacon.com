@@ -211,11 +211,10 @@ img, img:hover {
         li {
             list-style: none;
             width: 100%;
+            display: inline-block;
+            padding: 2vh 0px 2vh 0px;
+            line-height: 20px;
             a {
-                width: 100%;
-                display: inline-block;
-                padding: 2vh 0px 2vh 0px;
-                line-height: 20px;
                 text-decoration: none;
                 color: #8E9AA7;
                 font-weight: 400;
@@ -738,12 +737,19 @@ body.active-side {
 // My custom CSS
 
 #menu ul li a.aulas {
-  padding-bottom: 0; 
+  display: inline;
 }
 
 #menu ul li a.sub-item {
-  text-indent: 20px;
-  padding: 1vh 0px 0vh 0px; 
+  display: inline;
+}
+
+#menu .badge-primary {
+  color: white;
+}
+
+#menu .badge-secondary {
+  background-color: #d8d8d8;
 }
 
 .share a i {
