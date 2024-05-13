@@ -74,22 +74,4 @@ imageshadow: true
   </div>
 </div>
 <div class="card-deck">
-  <div class="card">
-    <video style="padding: 68px 0 79px 0;" controls>
-      <source src="{{ site.baseurl }}/assets/videos/prod-24k.mp4">
-    </video>
-    <div class="card-body">
-      <h5 class="card-title">Expresse da sua maneira</h5>
-      <p class="card-text">De um disco autoral a uma pré-produção com mais gente, tome as rédeas de como a coisa vai soar, do zero.</p>
-    </div>
-  </div>
-  <div class="card">
-    <video controls>
-      <source src="{{ site.baseurl }}/assets/videos/prod-zoeira.mp4">
-    </video>
-    <div class="card-body">
-      <h5 class="card-title">Crie vídeos mais interessantes</h5>
-      <p class="card-text">Participe com a comunidade da internet remixando e participando em desafios. O mundo digital também pede qualidade.</p>
-    </div>
-  </div>
 </div>
